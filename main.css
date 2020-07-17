@@ -2232,7 +2232,7 @@ input::-moz-focus-inner {
   height: 5.6rem;
   width: 5.6rem;
   background-color: rgba(255, 255, 255, 0.05);
-  background-image: url(../images/icons/icon-arrow-down.svg);
+  background-image: url(https://raw.githack.com/anwar-bae/awank/master/icon-arrow-down.svg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: 10px 15px;
@@ -2781,7 +2781,7 @@ html.no-csstransitions .home-content__main {
   overflow: hidden;
   height: 62.4rem;
   margin-top: calc((62.4rem/2) * -1);
-  background-image: url(../images/video-bg-2400.jpg);
+  background-image: url(https://raw.githack.com/anwar-bae/awank/master/0001.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-size: cover;
@@ -2817,7 +2817,7 @@ html.no-csstransitions .home-content__main {
   width: 112px;
   border-radius: 50%;
   background-color: #ffffff;
-  background-image: url(../images/icons/icon-play-black.svg);
+  background-image: url(https://raw.githack.com/anwar-bae/awank/master/icon-play-black.svg);
   background-repeat: no-repeat;
   background-position: 55% center;
   background-size: 24px 27px;
@@ -2827,7 +2827,7 @@ html.no-csstransitions .home-content__main {
 
 .btn-video:hover .video-icon {
   background-color: #5b4f96;
-  background-image: url(../images/icons/icon-play.svg);
+  background-image: url(https://raw.githack.com/anwar-bae/awank/master/icon-play.svg);
 }
 
 
@@ -3775,7 +3775,7 @@ html.no-csstransitions .home-content__main {
   font-size: 1.8rem;
   line-height: 3.2rem;
   padding: 1.8rem 140px 1.8rem 64px;
-  background: url(../images/icons/icon-mail.svg) 24px center no-repeat, rgba(255, 255, 255, 0.03);
+  background: url(https://raw.githack.com/anwar-bae/awank/master/icon-mail.svg) 24px center no-repeat, rgba(255, 255, 255, 0.03);
   background-size: 24px 16px, auto;
   color: white;
   margin-bottom: 2rem;
@@ -3975,7 +3975,7 @@ html.no-csstransitions .home-content__main {
   width: 5.6rem;
   line-height: 5.6rem;
   text-align: center;
-  background-image: url(../images/icons/icon-arrow-up.svg);
+  background-image: url(https://raw.githack.com/anwar-bae/awank/master/icon-arrow-up.svg);
   background-color: #000000;
   background-repeat: no-repeat;
   background-position: center center;
